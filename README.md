@@ -1,5 +1,5 @@
 # DashBoard de Vendas
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Dev-JeanSantos/ds-delivery/blob/main/LICENSE) 
+[![NPM](https://github.com/Dev-JeanSantos/projeto-sds4/blob/main/LICENSE)
 
 # Sobre o projeto
 
@@ -16,7 +16,7 @@ O # DashBoard de Vendas é uma aplicação full stack web construída como proje
 ![Web 3](https://github.com/Dev-JeanSantos/assets/blob/main/dashboard_vendas/dash_rosca.jpg)
 
 
-## Modelo conceitual
+## Modelo Conceitual
 ![Modelo Conceitual](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/sds3-mc.png)
 
 ## Padrão MVC
