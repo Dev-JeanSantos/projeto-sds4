@@ -9,17 +9,18 @@ O # DashBoard de Vendas é uma aplicação full stack web construída como proje
 
 ## Layout Web
 
-![Web 1](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/home.jpg)
+![Web 1](https://github.com/Dev-JeanSantos/assets/blob/main/dashboard_vendas/projeto_total.jpg)
 
-![Web 2](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/menu3.jpg)
+![Web 2](https://github.com/Dev-JeanSantos/assets/blob/main/dashboard_vendas/dash_barra.jpg)
 
-![Web 3](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/menu%204.jpg)
-
-![Web 4](https://github.com/Dev-JeanSantos/assets/blob/main/dsdelivery/mapa.jpg)
+![Web 3](https://github.com/Dev-JeanSantos/assets/blob/main/dashboard_vendas/dash_rosca.jpg)
 
 
 ## Modelo conceitual
-![Modelo Conceitual](https://raw.githubusercontent.com/devsuperior/sds2/master/assets/modelo-conceitual.png)
+![Modelo Conceitual](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/sds3-mc.png)
+
+## Padrão MVC
+![Modelo Conceitual](https://raw.githubusercontent.com/devsuperior/bds-assets/main/sds/camadas.png)
 
 # Tecnologias utilizadas
 ## Back end
