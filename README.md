@@ -1,5 +1,6 @@
 # DashBoard de Vendas
-[![NPM](https://github.com/Dev-JeanSantos/projeto-sds4/blob/main/LICENSE)
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Dev-JeanSantos/projeto-sds4/blob/main/LICENSE) 
 
 # Sobre o projeto
 
